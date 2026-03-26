@@ -1,0 +1,46 @@
+body{
+  background-color: grey;
+}
+.card {
+  
+  margin: 12px;
+  padding: 20px;
+  background-color: white;
+}
+.one {
+  background-color: lightblue;
+  font-size: 32px;
+  font-weight: bold;
+  border: 32px;
+  margin: 16px;
+  padding: 12px;
+  font-family: Sans-serif;
+}
+
+.two {
+  background-color: lightblue;
+  font-size: 32px;
+  border: 32px;
+  margin: 16px;
+  padding: 12px;
+  font-family: Sans-serif;
+}
+
+.container {
+  background-color: lightblue;
+  font-size: 32px;
+  border: 32px;
+  margin: 16px;
+  padding: 12px;
+  font-family: Sans-serif;
+  text-align: center;
+  
+}
+
+button {
+  font-size: 32px;
+  border: 1px solid;
+  display: block;
+  margin: auto;
+  padding: 8px 24px;
+  }
