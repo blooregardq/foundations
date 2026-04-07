@@ -1,0 +1,34 @@
+.container {
+  display: flex;
+  justify-content: center;
+  gap: 52px;
+  flex-wrap: wrap;
+}
+h1{
+    text-align: center;
+    padding-bottom: 32px;
+    font-size: 52px;
+}
+
+ul{
+    list-style-type: none;
+    
+    padding: 0;
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+}
+li {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    padding: 52px;
+    
+}
+
+li img {
+    width: 100px;
+    height: 100px;
+    
+}
